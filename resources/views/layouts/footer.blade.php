@@ -1,10 +1,10 @@
 <footer>
     <!-- place footer here -->
-    <footer class="footer-custom bg-dark text-light pt-5">
+    <footer class="footer-custom bg-dark text-light pt-4">
         <div class="container">
             <div class="row">
                 <!-- Logo and Quick Links -->
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-2">
                     <img src="{{ asset('images/newlogo.png')}}" alt="Logo" class="footer-logo mb-3">
                     <h5>Quick Links</h5>
                     <ul class="list-unstyled">
@@ -16,7 +16,7 @@
                 </div>
 
                 <!-- Contact Us -->
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-2">
                     <h5>Contact Us</h5>
                     <ul class="list-unstyled">
                         <li><i class="fas fa-map-marker-alt font-logo1"></i> Biratnagar, Morang ,Nepal</li>
@@ -26,7 +26,7 @@
                 </div>
 
                 <!-- Join Our Community -->
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-2">
                     <h5>Join Our Community</h5>
                     <p>Follow us on social media</p>
                     <a href="#" class="text-light mr-3"><i class="fab fa-facebook-f font-logo"></i></a>
@@ -36,7 +36,7 @@
                 </div>
 
                 <!-- Feedback Form -->
-                <div class="col-lg-3 col-md-6 mb-4">
+                <div class="col-lg-3 col-md-6 mb-2">
                     <h5>Feedback</h5>
                     <form>
                         <div class="form-group">
@@ -50,7 +50,7 @@
                 </div>
             </div>
             <div class="row">
-                <div class="col-12 text-center bg-light text-dark justify-content-center">
+                <div class="col-12 text-center bg-light text-dark justify-content-center mb-0">
                     <p>&copy; 2024 Your Company. All rights reserved.</p>
                 </div>
             </div>

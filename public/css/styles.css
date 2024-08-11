@@ -8,6 +8,16 @@
 .logo{
     width: 6rem;
 }
+.nav-content{
+    font-size: 1.8rem;
+    
+}
+.nav-content li:hover{
+    background-color: rgb(157, 160, 163);
+    color:#212529;
+    font-size: 1.9rem;
+}
+
 .blog-contents{
     margin: 2px;
     padding: auto;

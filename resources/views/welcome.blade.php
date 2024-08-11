@@ -1,7 +1,7 @@
 @extends('layouts/header')
 @section('content')
 
-<div class="blog-contents">
+<div class="blog-contents m-0 p-0">
         <div class="row">
                 <div class="col-9">
                         <h2>Latest Blogs</h2>
@@ -43,14 +43,7 @@
 
                 </div>
         </div>
-        <div class="row">
-                <div class="col-9">
-                        <h2>Latest Blogs</h2>
-                </div>
-                <div class="col-3">
-                        <h2>Related Blogs</h2>
-                </div>
-        </div>
+
         <div class="row">
                 <div class="col-9 d-inline-flex">
                         <div class="row ">
